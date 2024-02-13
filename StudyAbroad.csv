@@ -1,0 +1,222 @@
+UniversityName,TutuionFee,Requirements ,AcceptanceRate,UniversityLinks,Country,AverageSalary,BestCourses
+University of Luxembourg,€200 ,IELTS-7,29%,https://wwwen.uni.lu/,Luxembourg,60k euros,computer science
+university of amsterdam,€13600 ,"IELTS-7,GRE-310",17%,https://www.uva.nl/en,Netherlands,50k euros,"applied science,business"
+Delft University of Technology,€19000,"IELTS-6.5,",82%,https://www.tudelft.nl/en/,Netherlands,45k euros,"computer science, and architecture"
+Vrije Universiteit Amsterdam (VU Amsterdam),€15000,"IELTS-6.5,",45%,https://vu.nl/en,Netherlands,43k euros,"business, Engineering"
+Erasmus University Rotterdam,€15100,IELTS-7,53%,https://www.eur.nl/en,Netherlands,42k euros,"business, economics"
+Utrecht University,€16500,IELTS-6.5,28%,https://www.uu.nl/en,Netherlands,43k euros,"medicine, psychology"
+University of Groningen,€13000,IELTS-7,21%,https://www.rug.nl/?lang=en,Netherlands,49k euros,"psychology, economics"
+Eindhoven University of Technology,€15000,IELTS-6.5,50%,https://www.tue.nl/en/,Netherlands,52k euros,engineering and technology
+Leiden University,€15000,IELTS-6.5,48%,https://www.universiteitleiden.nl/en,Netherlands,40k euros,"law, medicine"
+University of Twente,€13500,IELTS-6.5,51%,https://www.utwente.nl/en/,Netherlands,42k euros,"engineering, sciences"
+Maastricht University,€11500,IELTS-6.5,49%,https://www.maastrichtuniversity.nl/,Netherlands,38k euros,"Medicine, Psychology"
+Université PSL (Paris Sciences & Lettres),"€20,000","IELTS-6.5,GRE-310,A2 level French",35%,https://psl.eu/en,France,58k euros,"Sciences, Humanities"
+Ecole Polytechnique,"€15,000","IELTS-6.5,A2 level French",17%,https://www.polytechnique.edu/en,France,56k euros,"Mathematics, Physics, and Engineering"
+Sorbonne University,€20000,"IELTS-6.5,A2 level French",75%,https://www.sorbonne-universite.fr/en,France,50k euros,"Humanities, Law, and Social Sciences"
+CentraleSupélec,€15000,"IELTS-6,A2 level French",55%,https://www.centralesupelec.fr/,France,47k euros,Engineering and Computer Science
+Ecole Normale Supérieure de Lyon,€12000,"IELTS-6.5,GRE-305,A2 level French",33%,http://www.ens-lyon.fr/,France,42k euros,Humanities and Sciences
+Ecole des Ponts ParisTech,"€15,000 ","IELTS-6.5,GRE-300,A2 level French",20%,https://ecoledesponts.fr/,France,50k euros,"Engineering, Environmental Science"
+Sciences Po Paris,€17000,"IELTS-7,A2 level French",25%,https://www.sciencespo.fr/college/en/,France,51k euros,"Political Science, International Affairs"
+Université de Paris,€5000,"IELTS-6,A2 level French",50%,https://u-paris.fr/en/,France,47k euros,"Medicine, Law, Humanities"
+Université Paris 1 Panthéon-Sorbonne,€5000,"IELTS-6.5,A2 level French",55%,https://www.pantheonsorbonne.fr/en,France,42k euros," Law, Economics, Management"
+ENS Paris-Saclay,€243,"IELTS-6.5,A2 level French",69%,https://ens-paris-saclay.fr/en,France,49k euros,Science and Engineering
+University of Oxford,"£26,770-£37,510","IELTS-8,GRE-320",17.50%,https://www.ox.ac.uk/,United Kingdom,"£35,700"," Computer Science, Mathematics"
+University of Cambridge,"£28,443-£64,958","IELTS-8,GRE-315",21%,https://www.cam.ac.uk/,United Kingdom,"£33,700","Mathematics, Computer Science"
+Imperial College London,"£32,200-£40,300","IELTS-7,GRE-310",14.30%,https://www.imperial.ac.uk/,United Kingdom,"£31,700","Engineering, Natural Sciences"
+UCL (University College London),"£22,710-£31,380","IELTS-6.5,GRE-310",30%,https://www.ucl.ac.uk/,United Kingdom,"£30,700","Law, Medicine, Economics"
+University of Edinburgh,"£17,500 - £25,000","IELTS-6.5,GRE-305",12%,https://www.ed.ac.uk/,United Kingdom,"£29,700","Medicine, Veterinary Medicine"
+The University of Manchester,"£19,000 - £28,000","IELTS-6.5,GRE-300",29%,https://www.manchester.ac.uk/,United Kingdom,"£29,500","Medicine, Dentistry, Law, Business"
+King’s College London (KCL),"£11,000 - £39,600",IELTS-6.5,13%,https://www.kcl.ac.uk/,United Kingdom,"£30,700","Law, Medicine, War Studies"
+London School of Economics and Political Science (LSE),"£9,250 - £29,440",IELTS-6,12%,https://www.london.ac.uk/,United Kingdom,"£29,300","Economics, Finance, Social Policy"
+University of Bristol,"£10,300 - £29,900",IELTS-6,35%,https://www.bristol.ac.uk/,United Kingdom,"£29,700","Aerospace Engineering, Law, Medicine"
+The University of Warwick,"£9,450 - £27,160",IELTS-6,14%,https://warwick.ac.uk/,United Kingdom,"£28,700","Economics, Business, Computer Science"
+Technische Universität München,€300,"IELTS-7,GATE-90%,A2 level German",15%,https://www.tum.de/,Germany,"€50,000 - €60,000","Computer Science, Electrical Engineering"
+Ludwig-Maximilians-Universität München,€300,"IELTS-6.5,A2 level German",15%,https://www.lmu.de/en/,Germany,"€45,000 - €55,000","Medicine, Physics, Psychology"
+Ruprecht-Karls-Universität Heidelberg,€300,"IELTS-6.5,A2 level German",15%,https://www.uni-heidelberg.de/en,Germany,"€40,000 - €50,000","Medicine, Law, Physics"
+Humboldt-Universität zu Berlin,€300,"IELTS-6,A2 level German",20%,https://www.hu-berlin.de/en,Germany,"€35,000 - €45,000","Social Sciences, History, Cultural Studies"
+Freie Universität Berlin,€300,"IELTS-6,A2 level German",20%,https://www.fu-berlin.de/,Germany,"€35,000 - €45,000","Political Science, Law, History,"
+"KIT, Karlsruher Institut für Technologie",€300,"IELTS-6,A2 level German",25%,https://www.kit.edu/,Germany,"€45,000 - €55,000","Mechanical Engineering, Computer Science,"
+Rheinisch-Westfälische Technische Hochschule Aachen,€300,"IELTS-6,GATE-90%,A2 level German",25%,https://www.rwth-aachen.de/go/id/a/?lidx=1,Germany,"€45,000 - €55,000","Mechanical Engineering, Electrical Engineering"
+Technische Universität Berlin,€300,"IELTS-6,A2 level German",30%,https://www.tu.berlin/,Germany,"€40,000 - €50,000","Mechanical Engineering, Mathematics"
+Technische Universität Dresden,€300,"IELTS-6,A2 level German",50%,https://tu-dresden.de/,Germany,€45000,Electrical Engineering and Information Technology
+Eberhard Karls Universität Tübingen,€300,"IELTS-6,A2 level German",50%,https://uni-tuebingen.de/,Germany,€45000, Neuroscience and Economics
+Universität Freiburg,€300,"IELTS-6,A2 level German",40%,https://uni-freiburg.de/,Germany,€45000,Renewable Energy Engineering and Management
+Trinity College Dublin (TCD),"€18,000-€24,000",IELTS-6.5,31%,https://www.tcd.ie/,Ireland,"€44,000",Computer Science
+University College Dublin (UCD),"€15,000-€25,000",IELTS-6.5,31%,https://www.ucd.ie/,Ireland,"€44,000",Medicine and Business
+"National University of Ireland, Galway (NUIG)","€14,000-€20,000",IELTS-6.5,20%,https://www.universityofgalway.ie/,Ireland,"€38,000",Medicine and Biomedical Science
+University College Cork (UCC),"€12,000-€20,000",IELTS-6,34%,https://www.ucc.ie/en/,Ireland,"€41,000",Nursing and Midwifery
+Dublin City University (DCU),"€13,000-€20,000",IELTS-6,50%,https://www.dcu.ie/,Ireland,"€43,000",Computer Science and Business Studies
+University of Limerick (UL),"€13,000-€20,000",IELTS-6,66%,https://www.ul.ie/,Ireland,"€43,000",Business Studies and Engineering
+Maynooth University,"€12,000-€18,000",IELTS-6,44%,https://www.maynoothuniversity.ie/,Ireland,€42000,Computer Science and Psychology
+Technological University of Dublin,"€12,000-€16,000",IELTS-6,70%,https://www.tudublin.ie/,Ireland,€41000,Mechanical and Manufacturing Engineering
+ETH Zurich,"CHF 1,580","IELTS-7,GRE-320",20%,https://ethz.ch/en.html,switzerland,"CHF 98,000","Engineering, Computer Science, Mathematics, Physics"
+Swiss Federal Institute of Technology in Lausanne,"CHF 1,680","IELTS-6.5,GRE-310",25%,https://www.epfl.ch/en/,switzerland,"CHF 90,000","Engineering, Computer Science, Life Sciences"
+University of Zurich,"CHF 1,350","IELTS-6.5,GRE-305",30%,http://www.uzh.ch/index_en.html,switzerland,"CHF 80,000","Medicine, Law, Economics, Psychology"
+University of Bern,CHF 750,IELTS-6.5,20%,http://www.unibe.ch/eng/,switzerland,"CHF 75,000","Medicine, Law, Humanities, Natural Sciences"
+University of Geneva,"CHF 1,000",IELTS-6.5,30%,http://www.unige.ch/,switzerland,"CHF 85,000","Law, International Relations, Economics"
+University of Basel,"CHF 1,500",IELTS-6.5,25%,http://www.unibas.ch/en.html,switzerland,"CHF 75,000","Medicine, Law, Life Sciences, Social Sciences"
+University of Lausanne,CHF 500,IELTS-6.5,30%,http://www.unil.ch/,switzerland,"CHF 80,000","Social Sciences, Law, Economics, Medicine"
+USI Università della Svizzera italiana,"CHF 2,000",IELTS-6.5,35%,Università della Svizzera italiana | USI,switzerland,"CHF 80,000","Business Administration, Communication Sciences"
+University of St. Gallen,"CHF 1,200",IELTS-6.5,28%,http://www.unisg.ch/,switzerland,"CHF 78,000","Business Administration, Economics, Law"
+University of Fribourg,"CHF 1,500",IELTS-6.5,30%,http://www.unifr.ch/home/welcomeE.php,switzerland,"CHF 75,000","Law, Economics, Theology, Psychology"
+Ploytechnic Milano,"€3,900 to €6,900",IELTS-6.5,20-30%,Home: polimi,Italy,"€30,000-€35,000",Architecture and Urban Design
+University of Bologna,"€4,000 to €13,000",IELTS-6,25%,http://unibo.it/,Italy,"€35,000","Medicine and Surgery,Law"
+University of Rome,"€4,000 to €12,000",IELTS-6.5,22%,Foro Italico University of Rome,Italy,"€33,000",Computer Science and Economics
+University of Milan,"€4,000 to €12,000",IELTS-6,29%,https://www.unimi.it/en,Italy,"€33,000",Medicine and Surgery and Management
+Australian National University (ANU),"$28,000-$39,000 USD",IELTS-6.5,67%,https://www.anu.edu.au/,Australia,"$60,000-$90,000 USD","Social Sciences, Engineering, Law"
+University of Sydney,"$27,000-$38,000 USD",IELTS-6.5,30%,https://www.sydney.edu.au,Australia,"$60,000-$100,000 USD","Business, Engineering, Medicine"
+University of Melbourne,"$26,000-$36,000",IELTS-6.5,68%,https://www.unimelb.edu.au/,Australia,"$80,000","Business, Law, Medicine"
+University of New South Wales (UNSW),"$30,000-$41,000 USD",IELTS-6,42%,https://www.unsw.edu.au/,Australia,"$75,000","Business, Engineering, Law"
+University of Queensland (UQ),"$22,000-$32,000 USD",IELTS-6.5,48%,https://www.uq.edu.au/,Australia,"$72,000","Business, Engineering, Law"
+Monash University,"$25,000-$37,000 USD",IELTS-6,68%,https://www.monash.edu/,Australia,"$70,000","Business, Engineering, Medicine"
+University of Western Australia (UWA),"$26,000-$37,000 USD",IELTS-6,69%,https://www.uwa.edu.au/,Australia,"$70,000","Business, Engineering, Law"
+University of Adelaide,"$23,000-$34,000 USD",IELTS-6.5,70%,http://www.adelaide.edu.au/,Australia,"$70,000","Business, Engineering, Medicine"
+University of Technology Sydney (UTS),"$22,000-$34,000 USD",IELTS-6,68%,https://www.uts.edu.au/,Australia,"$65,000","Business, Engineering, IT"
+University of Wollongong,"$22,000-$32,000 USD",IELTS-6.5,78%,https://www.uow.edu.au/,Australia,"$50,000-$80,000","Engineering, Computer Science, Business"
+The University of Auckland," $24,000-$35,000 USD",IELTS-6.5,40%,https://www.auckland.ac.nz/,New Zealand,"$50,000-$90,000 USD","Business, Engineering, Medicine, Law"
+University of Otago,"$21,000-$30,000",IELTS-6.5,55%,https://www.otago.ac.nz/,New Zealand,"$45,000-$75,000 USD","Health Sciences, Law, Business"
+Victoria University of Wellington,"$22,000-$31,000 USD",IELTS-6.5,65%,https://www.wgtn.ac.nz/,New Zealand,"$60,000","Law, Business, Humanities"
+University of Canterbury,"$21,000-$31,000 USD",IELTS-6.5,68%,https://www.canterbury.ac.nz/,New Zealand,"$60,000","Engineering, Computer Science, Law"
+Massey University,"$19,000-$27,000 USD",IELTS-6.5,78%,https://www.massey.ac.nz/,New Zealand,"$65,000","Agriculture, Environmental Science, Business"
+University of Waikato,"$19,000-$27,000 USD",IELTS-6.5,83%,https://www.waikato.ac.nz/,New Zealand,"$65,000","Computer Science, Business, Environmental Sciences"
+Lincoln University,"$20,000-$28,000 USD",IELTS-6.5,72%,https://www.lincoln.ac.nz/,New Zealand," $45,000-$70,000 USD ","Agriculture, Environmental Science, Business"
+Auckland University of Technology,"$19,000-$26,000 USD",IELTS-6.5,64%,https://www.aut.ac.nz/,New Zealand,"$45,000-$75,000 USD","Business, Computer Science, Health Science"
+The University of Tokyo,"535,800 JPY",IELTS 6.5,17%,https://www.u-tokyo.ac.jp/en/,Japan,"¥ 32,00,000","Physics, Mathematics, Engineering"
+Kyoto University,"582,300 JPY",IELTS 6.5,27%,https://www.kyoto-u.ac.jp/en,Japan,"¥ 30,00,000","Physics, Chemistry, Engineering"
+Osaka University,"535,800 JPY",IELTS 6.5,30%,https://www.osaka-u.ac.jp/en,Japan,"¥ 28,00,000","Physics, Chemistry, Materials Science"
+Tokyo Institute of Technology,"535,800 JPY",IELTS 6.5,29%,https://www.titech.ac.jp/english,Japan,"¥ 26,00,000","Engineering, Computer Science"
+Tohoku University,"582,300 JPY",IELTS 6,22%,http://www.tohoku.ac.jp/en/,Japan,"¥ 26,00,000"," Engineering, Biology"
+Nagoya University,"535,800 JPY",IELTS 6,25%,https://en.nagoya-u.ac.jp/,Japan,"¥ 26,00,000","Chemistry, Engineering, Biology"
+Hokkaido University,"535,800 JPY",IELTS 6,30%,https://www.global.hokudai.ac.jp/,Japan,"¥ 25,00,000","Environmental Science, Biology"
+Kyushu University,"535,800 JPY",IELTS 6,32%,https://www.kyushu-u.ac.jp/en/,Japan,"¥ 25,00,000","Engineering, Life Sciences"
+Waseda University,"1,220,000 JPY",IELTS 6,25%,https://www.waseda.jp/top/en,Japan,"¥ 24,50,000","Business Administration, Economics, Law"
+Keio University,"1,150,000 JPY",IELTS 6,30%,https://www.keio.ac.jp/,Japan,"¥ 24,00,000","Business Administration, Economics"
+KAIST - Korea Advanced Institute of Science & Technology,"5,260,000 KRW","IELTS 6.5,GRE-320",8%,https://www.kaist.ac.kr/en/,South Korea,"4,000,000 KRW per month","Engineering, Computer Science"
+Seoul National University," 4,500,000 KRW","IELTS 6.5,GRE-310",10%,https://en.snu.ac.kr/,South Korea,"3,990,000 KRW per month","Medicine, Law, Business Administration"
+Korea University,"5,020,000 KRW","IELTS 6.5,GRE-310",15%,https://www.korea.edu/,South Korea,"3,985,000 KRW per month","Business Administration, Law, Economics"
+Sungkyunkwan University(SKKU),"4,500,000 KRW","IELTS 6.5,GRE-305",20%,https://www.skku.edu/eng/index.do,South Korea,"3,890,000 KRW per month","Business Administration, Law, Engineering"
+Yonsei University,"4,380,000 KRW","IELTS 6.5,GRE-300",22%,https://www.yonsei.ac.kr/en_sc/index.jsp,South Korea,"3,890,000 KRW per month","Business Administration, International Studies"
+Pohang University of Science And Technology (POSTECH),"4,500,000 KRW","IELTS 6.5,GRE-300",25%,https://international.postech.ac.kr/,South Korea,"3,890,000 KRW per month","Materials Science, Mechanical Engineering"
+Hanyang University,"5,000,000 KRW","IELTS 6.5,GRE-300",28%,https://www.hanyang.ac.kr/web/eng,South Korea,"3,890,000 KRW per month","Business Administration, Engineering"
+kyung hee university,"4,000,000 KRW","IELTS 6.5,GRE-300",30%,https://www.khu.ac.kr/eng/main/index.do,South Korea,"3,890,000 KRW per month",Business Administration
+Ewha Womans University,"4,000,000 KRW","IELTS 6.5,GRE-300",25%,https://www.ewha.ac.kr/ewhaen/index.do,South Korea,"3,885,000 KRW per month","Business Administration, International Studies"
+Sogang University,"4,000,000 KRW","IELTS 6.5,GRE-300",30%,https://wwwe.sogang.ac.kr/,South Korea,"3,880,000 KRW per month","Business Administration, Economics"
+national university of singapore,"SGD 35,000","IELTS 7,GRE-320",12%,https://nus.edu.sg/,Singapore,"S$4,800","Business Administration, Computer Science"
+Nanyang Technological University,"SGD 30,000 ","IELTS 7,GRE-320",15%,https://www.ntu.edu.sg/,Singapore,"S$4,800"," Business Administration, Computer Science, Engineering"
+singapore institute of technology,"SGD 30,000 ",IELTS 6.5,30%,https://www.singaporetech.edu.sg/,Singapore,"SGD 4,500.","Engineering, Information Technology, Hospitality"
+Singapore Management University,"SGD 41,000","IELTS 6.5,GMAT-720",25%,https://www.smu.edu.sg/,Singapore,"SGD 4,500"," Business Administration, Economics, Accountancy"
+Singapore University of Technology and Design (SUTD),"SGD 38,400",IELTS 6.5,15%,https://www.sutd.edu.sg/,Singapore,"SGD 4,500",Architecture and Sustainable Design
+insead university,"SGD 115,000","IELTS-7,GMAT-730",20%,https://www.insead.edu/,France,"€100,000","MBA program,Master's in Management program"
+James Cook University," SGD 37,960",IELTS 6.5,30%,https://www.jcu.edu.au/,Austraila,"AUD 77,000","Business, Psychology, Information Technology"
+King Abdulaziz University (KAU),"25,000 SAR",IELTS 6.5,50%,https://www.kau.edu.sa/home_english.aspx,Saudi Arabia,"120,000 SAR","engineering, medicine, business, humanities, and social science"
+Qatar University,"QAR 60,000",IELTS 6.5,45%,http://www.qu.edu.qa/,Qatar,"155,000 Qatari riyals","business administration, engineering, law, medicine"
+	United Arab Emirates University	,"AED 42,000",IELTS 6,65%,https://www.uaeu.ac.ae/en/,United Arab Emirates	,"AED 10,000","engineering, business, and the sciences"
+American University of Sharjah,"AED 100,940",IELTS-7,70.00%,https://www.aus.edu/,United Arab Emirates	,"$96,000 ","Architecture, Engineering, Business Administration"
+Khalifa University,"160,000 AED",IELTS 6,17%,https://www.ku.ac.ae/,United Arab Emirates	,"22,000 AED","Aerospace Engineering, Chemical, Electrical and Computer Engineering"
+University of Toronto,"CAD 48,620",IELTS 6,40%,https://www.utoronto.ca/,Canada,"CAD 68,000","engineering, business, medicine, law, and computer science"
+McGill University,"CAD $47,000",IELTS 6.5,46%,https://www.mcgill.ca/,Canada,"CAD 68,000","medicine, law, engineering, and computer science"
+University of British Columbia,"CAD 36,000",IELTS 6.5,22%,https://www.ubc.ca/,Canada,"CAD 70,000","forestry, business, engineering, and computer science"
+Université de Montréal,"CAD 17,348",IELTS 6.5,10%,https://www.umontreal.ca/en/,Canada,"CAD 51,232","arts and science, medicine, law, engineering"
+University of Alberta,$6000 CAD,IELTS 6,50%,https://www.ualberta.ca/index.html,Canada,"$60,000 CAD","Business, Engineering, Medicine, Law, and Education"
+McMaster University,"CAD 7,000",IELTS 6,58%,https://www.mcmaster.ca/,Canada,"CAD 66,000","Health Sciences, Engineering, Business, and Humanities"
+University of Waterloo,"CAD 25,000",IELTS 6.5,53%,https://uwaterloo.ca/,Canada,"CAD 72,000","engineering, computer science, mathematics, and science"
+Western University,"CAD 29,013",IELTS 6,31%,https://www.uwo.ca/,Canada,"CAD 66,000","Business, Engineering, Health Sciences, Law, and Social Sciences"
+Queen's University,"CAD 7,771",IELTS 6.5,50%,https://www.queensu.ca/,Canada,"CAD 63,000","business, engineering, and medicine"
+University of Calgary,"CAD 6,000",IELTS 6.5,50%,https://www.ucalgary.ca/,Canada,"CAD 60,000","engineering, business, and medicine"
+Stanford Graduate School of Business,"$230,000 ","IELTS-7,GMAT-750",6%,https://www.gsb.stanford.edu/,United States of America,"$160,000 ",business administration and management
+Harvard Business School,"$80,000 ","IELTS-7,GMAT-750",11%,https://www.hbs.edu/Pages/default.aspx,United States of America,"$150,000 ",business administration and management
+Penn (Wharton),"$57,770 ","IELTS-7,GMAT-750",22%,https://www.wharton.upenn.edu/,United States of America,"$1,10,000",business administration and management
+HEC Paris," €82,000","IELTS-7,GMAT-750",18%,https://www.hec.edu/en,France,"€95,000",business administration and management
+MIT (Sloan),"$80,750 ","IELTS-7,GMAT-750",10.90%,https://mitsloan.mit.edu/,United States of America,"$140,000 ",business administration and management
+London Business School,"£87,900","IELTS-7,GMAT-750",20-25%,https://www.london.edu/,United Kingdom,"£77,812",business administration and management
+IE Business School,"$80,544 ","IELTS-7,GMAT-750",15%,https://www.ie.edu/business-school/,Spain,"$172,000 ",business administration and management
+Columbia Business School,"€ 89,950","IELTS-7,GMAT-750",23%,https://home.gsb.columbia.edu/,United States of America," €98,000",business administration and management
+IESE Business School,"€ 89,950","IELTS-7,GMAT-750",23%,https://www.iese.edu/,Spain," €105,000",business administration and management
+UC Berkeley (Haas),"$67,704 ","IELTS-7,GMAT-750",3.50%,https://haas.berkeley.edu/,United States of America,"$96,500 ",business administration and management
+Massachusetts Institute of Technology (MIT),"$59,430 ","IELTS-7,GRE-330",3.50%,https://www.mit.edu/,United States of America,"$96,500 ","computer science, electrical engineering, mechanical engineering"
+Stanford University,"$59,710 ","IELTS-7,GRE-320",3.90%,https://www.stanford.edu/,United States of America,"$94,000 ","computer science, engineering, business, medicine, and law"
+Harvard University,"$59,950 ","IELTS-7,GRE-320",5.98%,https://www.harvard.edu/,United States of America,"$149,000 ","law, business, medicine"
+California Institute of Technology (Caltech),"$55,908 ","IELTS-7,GRE-320",6.60%,https://www.caltech.edu/,United States of America,"$84,000 ","Chemistry,Computer Science,Electrical Engineering"
+University of Chicago,"$61,548 ","IELTS-7,GRE-320",7.20%,https://www.uchicago.edu/en,United States of America,"$85,000 ","economics, political science, law, and business"
+University of Pennsylvania,"$59,950 ","IELTS-7,GRE-320",5.70%,https://www.upenn.edu/,United States of America,"$87,000 ","Medicine,Arts and Sciences,Business"
+Princeton University,"$56,980 ","IELTS-7,GRE-320",4.40%,https://www.princeton.edu/,United States of America,"$70,000 ","Chemical and Biological Engineering, Computer Science, Economics,"
+yale university,"$77,600 ","IELTS-7,GRE-320",4.60%,https://www.yale.edu/,United States of America,"$80,000 ","political science, economics, history, psychology, and law"
+Cornell University,"$59,282 ","IELTS-7,GRE-320",11.90%,https://www.cornell.edu/,United States of America,"$85,000 ","Engineering,Computer Science,Hotel Administration"
+Columbia University,"$61,671 ","IELTS-7,GRE-320",5.40%,https://www.columbia.edu/,United States of America,"$90,000 ","Business,Medicine ,Journalism ,Engineering"
+Johns Hopkins University,"$57,700 ","IELTS-7,GRE-315",9%.,https://www.jhu.edu/,United States of America,"$74,500 ","Biomedical Engineering, Public Health, Neuroscience, Computer Science,"
+University of Michigan-Ann Arbor,"$53,514 ",IELTS-7,26%,https://umich.edu/,United States of America,"$75,000 ","Computer Science,Psychology,Economics,Medicine"
+University of California Berkeley (UCB),"$44,066 ",IELTS-7,17.6%.,https://www.berkeley.edu/,United States of America,"$85,000 ","Computer Science,Economics,Psychology,English"
+Northwestern University,"$78,654 ",IELTS-7,8.50%,https://www.northwestern.edu/,United States of America,"$75,000 ","journalism, engineering, and business."
+New York University (NYU),"$54,880 ",IELTS-7,16%.,https://www.nyu.edu/,United States of America,"$78,000 ","business, law, medicine, arts and sciences, engineering, education,"
+"University of California, Los Angeles (UCLA)","$13,249 ",IELTS-7,12%,https://www.ucla.edu/,United States of America,"$69,000 ","business, engineering, medicine, law, and social sciences"
+Duke University,"$58,198 ",IELTS-7,8%,https://duke.edu/,United States of America,"$85,000 ","medicine, law, business, public policy, and engineering"
+Carnegie Mellon University,"$59,310 ",IELTS-7,15%,https://www.cmu.edu/,United States of America,"$100,000 ","computer science, engineering, business, and the arts"
+"University of California, San Diego (UCSD)","$14,615 ",IELTS-7,30%,https://ucsd.edu/,United States of America,"$68,000 ","ngineering, biology, psychology, and computer science"
+Brown University,"$60,696 ",IELTS-7,6.70%,https://www.brown.edu/,United States of America,"$85,000 ","biology, computer science, engineering, and international relations"
+University of Texas at Austin,"$11,448 ",IELTS-6.5,32%,https://www.utexas.edu/,United States of America,"$72,000 ","engineering, business, law, and computer science"
+University of Washington,"$39,114 ",IELTS-6.5,49%,https://www.washington.edu/,United States of America,"$73,000 ","computer science, engineering, business, and health sciences"
+University of Wisconsin-Madison,"$10,742 ",IELTS-6.5,54%,https://www.wisc.edu/,United States of America,"$61,000 ","engineering, life sciences, business, and social sciences"
+University of Illinois at Urbana-Champaign,"$16,000 ",IELTS-6.5,62%,https://illinois.edu/,United States of America,"$74,000 ","engineering, computer science, and business"
+Georgia Institute of Technology (Georgia Tech),"$33,794 ",IELTS-6.5,20%,https://www.gatech.edu/,United States of America,"$85,000 ","engineering, science, and technology"
+Pennsylvania State University,"$34,858 ",IELTS-6.5,76%,https://www.psu.edu/,United States of America,"$63,000 ","business, engineering, and agriculture"
+Rice University,"$46,000 ",IELTS-7,11%,https://www.rice.edu/,United States of America,"$84,000 ","sciences and engineering, as well as its humanities and social sciences programs."
+"University of California, Davis (UCD)","$44,000 ",IELTS-6.5,41%.,https://www.ucdavis.edu/,United States of America,"$75,000 ","agriculture, engineering, humanities, and social sciences"
+"University of North Carolina, Chapel Hill","$36,000 ",IELTS-6,23%.,https://www.unc.edu/,United States of America,"$63,000 ","business, engineering, humanities, and social sciences"
+Boston University,"$58,000 ",IELTS-6,18%,https://www.bu.edu/,United States of America,"$70,000 ","business, engineering, humanities, and social sciences."
+Washington University in St. Louis,"$56,300 ",IELTS-6.5,14%.,https://wustl.edu/,United States of America,"$80,000 ","business, engineering, humanities, and social sciences"
+Purdue University,"$31,000 ",IELTS-6.5,58%.,https://www.purdue.edu/,United States of America,"$70,000 ","engineering, business, agriculture, and social sciences"
+University of Southern California,"$60,000 ",IELTS-6.5,16%.,https://www.usc.edu/,United States of America,"$77,000 ","business, engineering, humanities, and social sciences"
+Ohio State University,"$32,000 ",IELTS-6,52%.,https://www.osu.edu/,United States of America,"$63,000 ","engineering, business, humanities, and social sciences."
+University of Rochester,"$57,000 ",IELTS-6.5,31%.,https://www.rochester.edu/,United States of America,"$75,000 ","business, engineering, humanities, and social sciences"
+"University of California, Santa Barbara (UCSB)","$44,000 ",IELTS-6.5,29%.,https://www.ucsb.edu/,United States of America,"$70,000 ","engineering, environmental science, social sciences, and humanities."
+Emory University,"$53,000 ",IELTS-6.5,20%.,www.emory.edu,United States of America,"$72,000 ","business, health sciences, law, and liberal arts."
+Michigan State University,"$40,000 ",IELTS-6,71%.,https://msu.edu/,United States of America,"$63,000 ","business, engineering, agriculture, and social sciences"
+Texas A&M University,"$39,000 ",IELTS-5.5,68%.,https://www.tamu.edu/,United States of America,"$67,000 ","engineering, business, agriculture, and liberal arts."
+"University of Maryland, College Park","$36,000 ",IELTS-6,44%.,https://www.umd.edu/,United States of America,"$68,000 ","Bachelor of Science in Computer Science, Master of Business Administration"
+Case Western Reserve University,"$50,000 ",IELTS-6.5,27%.,https://case.edu/,United States of America,"$77,000 ","Biomedical Engineering, Master of Business Administration"
+University of Pittsburgh,"$33,000 ",IELTS-6,59%.,https://www.pitt.edu/,United States of America,"$60,000 ","Computer Science, Master of Business Administration"
+"University of Minnesota, Twin Cities","$34,000 ",IELTS-6.5,45%.,https://twin-cities.umn.edu/,United States of America,"$63,000 ","business, engineering, education, law, medicine, and social sciences"
+University of Florida,"$28,000 ",IELTS-6,38%,https://www.ufl.edu/,United States of America,"$55,000 ","Business Administration, Master of Science in Mechanical Engineering"
+Vanderbilt University,"$54,000 ",IELTS-6,9%.,https://www.vanderbilt.edu/,United States of America,"$77,000 ","Computer Science, Master of Business Administration"
+Dartmouth College,"$58,000 ",IELTS-6.5,8%.,https://home.dartmouth.edu/,United States of America,"$82,000 ","social sciences, humanities, natural sciences, and engineering"
+Arizona State University,"$28,000 ",IELTS-5.5,86%.,https://www.asu.edu/,United States of America,"$55,000 ","engineering, business, law, education, and social sciences."
+"University of California, Irvine (UCI)","$43,000 ",IELTS-6.5,29%.,https://uci.edu/,United States of America,"$71,000 ","Computer Science, Master of Business Administration"
+University of Virginia,"$48,000 ",IELTS-6,23%.,https://www.virginia.edu/,United States of America,"$76,000 "," business, law, medicine, engineering, and social "
+Tulane University,"$50,000 to $70,000",IELTS-6,13%.,https://tulane.edu/,United States of America,"$68,000 ","business, law, medicine, engineering, and social sciences."
+University of Hawai'i at Manoa,"$33,000 to $34,000",IELTS-5.5,83%.,https://manoa.hawaii.edu/,United States of America,"$52,000 ","business, engineering, social sciences, education,"
+Florida State University,"$22,000 to $24,000",IELTS-6,33%.,https://www.fsu.edu/,United States of America,"$53,000 ","business, law, education, social sciences, and arts"
+Illinois Institute of Technology,"$47,000 to $50,000",IELTS-6,58%.,https://www.iit.edu/,United States of America,"$72,000 ","Computer Science, Bachelor of Architecture,"
+Wake Forest University,"$59,000 ",IELTS-6.5,30%.,https://www.wfu.edu/,United States of America,"$65,000 ","Biology, Bachelor of Arts in Psychology,"
+university of indonesia,"$1,000-$3,000 USD",IELTS-6,10%,www.ui.ac.id/,Indonesia,"IDR 61,139,808","Engineering, Social Sciences, Law"
+The University of Hong Kong,"$18,000-$30,000 USD",IELTS-6.5,11%,https://www.hku.hk/,Hong Kong,"$50,000-$100,000 USD","Business, Law, Medicine"
+The Chinese University of Hong Kong,"$16,000-$24,000 USD",IELTS-6.5,14%,www.cuhk.edu.hk,Hong Kong,"$50,000-$100,000 USD","Business, Engineering, Law"
+City University of Hong Kong,"$17,000-$25,000 USD",IELTS-6.5,19%,https://www.cityu.edu.hk/,Hong Kong,"$50,000-$100,000 USD","Business, Computer Science"
+University of Oslo,$70-120 USD,IELTS-6.5,28%,https://www.uio.no/english/,Norway,52k euros,"Social Sciences, Humanities, Law"
+Technical University of Denmark,"$11,000-$13,000 USD",IELTS-6.5,26%,https://www.dtu.dk/english/,Denmark,55k euros,"Engineering, Computer Science"
+University of Helsinki,$1000,IELTS-6,12%,https://www.helsinki.fi/en,Finland,48k euros,"Social Sciences, Natural Sciences"
+Aalto University,"$13,000-$20,000 USD",IELTS-6,26%,https://www.aalto.fi/en,Finland,45k euros,"Technology, Business, Art and Design"
+Universiti Putra Malaysia (UPM),"$2,000-$3,000 USD",IELTS-6,25%,https://upm.edu.my/,Malaysia,MYR 50k,"Agriculture, Forestry, Engineering"
+Uppsala University,$100 USD,IELTS-6.5,15%,https://www.uu.se/en,Sweden,56k euros,"Law, Social Sciences, Natural Sciences"
+Ghent University,"$1,000-$3,000 USD",IELTS-6.5,38%,https://www.ugent.be/en,Belgium,55k euros,"Medicine, Engineering, Psychology"
+University of Vienna,$22 USD,IELTS-6.5,22%,https://www.univie.ac.at/en/,Austria,50k euros,"Law, Social Sciences"
+Stockholm University,$80 USD,IELTS-6.5,55%,https://www.su.se/,Sweden,55k euros,"Law, Social Sciences, Humanities"
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,, 
